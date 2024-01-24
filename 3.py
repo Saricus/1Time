@@ -1,6 +1,6 @@
 print('Maxymalna pojemnośc magazynu to 100 miejsc')
 max = 100
-psc = int(input('Podaj ilość w towaru w magazynie: '))
+psc = int(input('Podaj ilość towaru w magazynie: '))
 dostawa = int(input('Podaj ilość towaru w dostawei: '))
 razem = psc + dostawa
 wolne = max - (psc + dostawa)
