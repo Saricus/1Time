@@ -7,4 +7,4 @@ wolne = max - (psc + dostawa)
 if psc + dostawa > max:
     print('Magazyn nie pomieści tyle towaru')
 else:
-    print('Można pakowac. W magazynie pozostanie {} miejsc'.format(wolne))
+    print('Można pakowac. Nowy stan magazynu to {} sztuk. W magazynie pozostanie {} miejsc'.format(razem, wolne))
