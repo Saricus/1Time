@@ -1,5 +1,5 @@
 a = int(input('Podaj 1 cyfre: '))
-print('Podaj wybierz znak')
+print('Wybierz znak')
 print('1. +')
 print('2. -')
 print('3. *')
