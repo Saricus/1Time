@@ -5,8 +5,8 @@ kappa(2, c=8) # pominicie b
 
 
 def fn(a , *args, **dict_args):
-    # *args opcjonalne argumenty (zostaja zebrane w tuple)
-    # **dict_args - slownik/zbior
+    # * opcjonalne argumenty (zostaja zebrane w tuple)
+    # ** - slownik/zbior
     print(a)
     print(args)
     print(dict_args)
