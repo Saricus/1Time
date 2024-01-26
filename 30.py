@@ -1,0 +1,1 @@
+# Wartości, obiekty oraz zmienne
